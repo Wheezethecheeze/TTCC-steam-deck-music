@@ -1,0 +1,10 @@
+{
+  "name": "estate interior",
+  "description": "the estate interior theme from toontown corporate clash! all credit goes to them",
+  "author": "wheezethecheeze",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
